@@ -1,0 +1,47 @@
+body{
+  background:url("../images/gym.jpg") no-repeat;
+  border:solid 1px;
+  margin:0;
+  width:100%;
+
+  position:fixed;
+
+}
+
+div{
+  background-color: #204051;
+  border:solid 1px;
+  text-align:center;
+  margin:320px auto;
+  width:50%;
+  border-radius:30px;
+
+
+}
+
+h1{
+  font-size:4em;
+  color:white;
+  font-family: 'Kaushan Script', cursive;
+}
+h2{
+  font-size:2em;
+  border:solid 1px;
+  background-color:#84a9ac;
+  width:80%;
+  height:50px;
+  padding-top:25px;
+  padding-bottom: 30px;
+  margin: 10px auto;
+  border-radius:10px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h3{
+  font-size:1.5em;
+  margin-bottom:40px;
+  color:#e4e3e3;
+  font-family: 'Cinzel', serif;
+}
+i{
+  font-size:40px;
+}
